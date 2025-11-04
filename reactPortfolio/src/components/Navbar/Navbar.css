@@ -27,6 +27,9 @@ nav.scrolled {
   font-weight: bold;
   color: #ffb703;
 }
+.logo:hover {
+  cursor: pointer;
+}
 
 /* Навигация */
 ul {
